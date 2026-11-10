@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" shape-rendering="crispEdges">
+<defs><pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="2" height="2" fill="#e6edf3" opacity=".55"/><rect x="3" y="3" width="2" height="2" fill="#e6edf3" opacity=".25"/></pattern></defs>
+<rect width="1200" height="340" rx="12" fill="#0d1117"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<text x="70" y="38" font-size="18" font-weight="700" fill="#e6edf3">$ git log --since=30.days</text>
+<text x="1170" y="38" font-size="15" fill="#7d8590" text-anchor="end">347 contributions</text>
+<line x1="70" y1="280" x2="1170" y2="280" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="58" y="284" font-size="12" fill="#7d8590" text-anchor="end">0</text>
+<line x1="70" y1="228" x2="1170" y2="228" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="58" y="232" font-size="12" fill="#7d8590" text-anchor="end">17</text>
+<line x1="70" y1="175" x2="1170" y2="175" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="58" y="179" font-size="12" fill="#7d8590" text-anchor="end">34</text>
+<line x1="70" y1="122" x2="1170" y2="122" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="58" y="126" font-size="12" fill="#7d8590" text-anchor="end">51</text>
+<line x1="70" y1="70" x2="1170" y2="70" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="58" y="74" font-size="12" fill="#7d8590" text-anchor="end">68</text>
+<text x="70" y="306" font-size="12" fill="#7d8590" text-anchor="middle">11 oct</text>
+<text x="253" y="306" font-size="12" fill="#7d8590" text-anchor="middle">16 oct</text>
+<text x="437" y="306" font-size="12" fill="#7d8590" text-anchor="middle">21 oct</text>
+<text x="620" y="306" font-size="12" fill="#7d8590" text-anchor="middle">26 oct</text>
+<text x="803" y="306" font-size="12" fill="#7d8590" text-anchor="middle">31 oct</text>
+<text x="987" y="306" font-size="12" fill="#7d8590" text-anchor="middle">05 nov</text>
+<text x="1170" y="306" font-size="12" fill="#7d8590" text-anchor="middle">10 nov</text>
+<path d="M70.0 280.0 H88.3 V280.0 H106.7 H125.0 V280.0 H143.3 H161.7 V280.0 H180.0 H198.3 V280.0 H216.7 H235.0 V280.0 H253.3 H271.7 V280.0 H290.0 H308.3 V280.0 H326.7 H345.0 V280.0 H363.3 H381.7 V280.0 H400.0 H418.3 V280.0 H436.7 H455.0 V280.0 H473.3 H491.7 V137.9 H510.0 H528.3 V230.6 H546.7 H565.0 V230.6 H583.3 H601.7 V280.0 H620.0 H638.3 V280.0 H656.7 H675.0 V246.0 H693.3 H711.7 V221.3 H730.0 H748.3 V175.0 H766.7 H785.0 V171.9 H803.3 H821.7 V280.0 H840.0 H858.3 V246.0 H876.7 H895.0 V280.0 H913.3 H931.7 V280.0 H950.0 H968.3 V230.6 H986.7 H1005.0 V73.1 H1023.3 H1041.7 V144.1 H1060.0 H1078.3 V280.0 H1096.7 H1115.0 V212.1 H1133.3 H1151.7 V249.1 H1170.0 V280 H70 Z" fill="url(#dots)"/>
+<path d="M70.0 280.0 H88.3 V280.0 H106.7 H125.0 V280.0 H143.3 H161.7 V280.0 H180.0 H198.3 V280.0 H216.7 H235.0 V280.0 H253.3 H271.7 V280.0 H290.0 H308.3 V280.0 H326.7 H345.0 V280.0 H363.3 H381.7 V280.0 H400.0 H418.3 V280.0 H436.7 H455.0 V280.0 H473.3 H491.7 V137.9 H510.0 H528.3 V230.6 H546.7 H565.0 V230.6 H583.3 H601.7 V280.0 H620.0 H638.3 V280.0 H656.7 H675.0 V246.0 H693.3 H711.7 V221.3 H730.0 H748.3 V175.0 H766.7 H785.0 V171.9 H803.3 H821.7 V280.0 H840.0 H858.3 V246.0 H876.7 H895.0 V280.0 H913.3 H931.7 V280.0 H950.0 H968.3 V230.6 H986.7 H1005.0 V73.1 H1023.3 H1041.7 V144.1 H1060.0 H1078.3 V280.0 H1096.7 H1115.0 V212.1 H1133.3 H1151.7 V249.1 H1170.0" fill="none" stroke="#e6edf3" stroke-width="3"/>
+<rect x="506.0" y="133.9" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="542.7" y="226.6" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="579.3" y="226.6" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="689.3" y="242.0" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="726.0" y="217.3" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="762.7" y="171.0" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="799.3" y="167.9" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="872.7" y="242.0" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="982.7" y="226.6" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="1019.3" y="69.1" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="1056.0" y="140.1" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="1129.3" y="208.1" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<rect x="1166.0" y="245.1" width="8" height="8" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
+<text x="70" y="326" font-size="11" fill="#7d8590">@Sadiquzzaman · updated 2026-11-10</text>
+</g></svg>
