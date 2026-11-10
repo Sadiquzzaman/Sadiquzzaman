@@ -63,5 +63,5 @@ I like systems that are simple to reason about, fast under load, and easy to cha
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadiquzzaman&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+  <img src="assets/activity.svg" alt="Contribution activity graph, last 30 days" width="100%" />
 </p>
