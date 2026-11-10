@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sadiquzzaman Shovon, backend engineer" width="100%" />
+  <img src="assets/banner.png" alt="Pixel art banner: database, terminal and globe" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sadiquzzaman Shovon</h1>
-<h3 align="center">Backend Software Engineer @ Shohoz Limited</h3>
+<h1 align="center">Hi 👋, I'm Shovon</h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=6EA8FF&center=true&vCenter=true&width=620&lines=5%2B+years+building+backends+that+scale;Kafka+%E2%80%A2+Ory+Hydra+%26+Kratos+%E2%80%A2+NestJS;Event-driven+systems+%E2%80%A2+Serverless+on+AWS" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=5%2B+years+building+backends+that+scale;Kafka+%E2%80%A2+Ory+Hydra+%26+Kratos+%E2%80%A2+NestJS;Event-driven+systems+%E2%80%A2+Serverless+on+AWS" alt="Typing tagline" />
 </p>
 
 <p align="center">Building reliable backend systems with clean architecture and scalable design.</p>
@@ -29,7 +29,7 @@ I like systems that are simple to reason about, fast under load, and easy to cha
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="assets/terminal.svg" alt="Terminal card: whoami, stack, current work" width="100%" />
+  <img src="assets/server.png" alt="Pixel art server rack" width="100%" />
 </td>
 </tr>
 </table>
@@ -54,25 +54,14 @@ I like systems that are simple to reason about, fast under load, and easy to cha
   <img src="https://img.shields.io/badge/AWS_Lambda-Serverless-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
 </p>
 
-<h2 align="center">⭐ Featured Work</h2>
-
-| Project | What I built | Impact |
-|---|---|---|
-| **Shohoz Bus rewrite** | Legacy-to-modern rebuild with Ory Hydra/Kratos identity and Kafka events | In progress |
-| **Instructor Academy** | Co-founder; proctoring + academic management SaaS | Schools, coaching centres, teachers |
-| **Shohoz Air** | BDFare & US-Bangla integrations; flight search and booking backend | **+500%** purchases · 10M req/day |
-| **Orderbutler.ai** | Serverless backend for an agentic AI commerce chatbot | Onboarded one of Sweden's largest suppliers |
-| **iCaddie** | AI golf assistant with A* shot pathfinding and RAG | Secured product funding |
-| **bKash Loan Event Stream** | Event-driven loan eligibility engine | **1k+ events/min** |
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sadiquzzaman&theme=tokyonight&hide_border=true&background=0A0F1E&ring=6EA8FF&fire=F5A524&currStreakLabel=6EA8FF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Sadiquzzaman&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadiquzzaman&theme=tokyo-night&hide_border=true&bg_color=0A0F1E&color=E9EDF7&line=6EA8FF&point=F5A524&area=true&area_color=6EA8FF" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadiquzzaman&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 </p>
