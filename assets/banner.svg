@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#6ea8ff" stroke-opacity=".07"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .t{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .n rect{fill:#16213f;stroke:#2a3a66;stroke-width:1.5}
+      .w{fill:none;stroke:#2a3a66;stroke-width:2}
+      .l{fill:#e9edf7;font-size:15px}
+      .s{fill:#8d9aba;font-size:11px}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#0a0f1e"/>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+
+  <text x="60" y="120" class="t" font-size="44" font-weight="700" fill="#e9edf7">Sadiquzzaman</text>
+  <text x="60" y="172" class="t" font-size="44" font-weight="700" fill="#6ea8ff">Shovon</text>
+  <text x="60" y="214" class="t" font-size="16" fill="#8d9aba">backend engineer · dhaka, bangladesh</text>
+  <circle cx="66" cy="246" r="5" fill="#3ddc97"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="80" y="251" class="t" font-size="13" fill="#3ddc97">system online</text>
+
+  <path id="a" class="w" d="M600 150H660"/>
+  <path id="b1" class="w" d="M770 150C800 150 800 85 830 85"/>
+  <path id="b2" class="w" d="M770 150H830"/>
+  <path id="b3" class="w" d="M770 150C800 150 800 215 830 215"/>
+  <path id="c1" class="w" d="M940 85C970 85 970 150 1000 150"/>
+  <path id="c2" class="w" d="M940 150H1000"/>
+  <path id="c3" class="w" d="M940 215C970 215 970 150 1000 150"/>
+  <path id="d1" class="w" d="M1040 110C1070 110 1070 80 1100 80"/>
+  <path id="d2" class="w" d="M1040 190C1070 190 1070 220 1100 220"/>
+
+  <g class="n t"><rect x="520" y="122" width="80" height="56" rx="10"/><text x="560" y="155" text-anchor="middle" class="l">client</text></g>
+  <g class="n t"><rect x="660" y="110" width="110" height="80" rx="10" style="stroke:#3ddc97"/><text x="715" y="142" text-anchor="middle" class="l">auth</text><text x="715" y="162" text-anchor="middle" class="s">hydra · kratos</text></g>
+  <g class="n t"><rect x="830" y="62" width="110" height="46" rx="10"/><text x="885" y="90" text-anchor="middle" class="l">booking</text></g>
+  <g class="n t"><rect x="830" y="127" width="110" height="46" rx="10"/><text x="885" y="155" text-anchor="middle" class="l">payment</text></g>
+  <g class="n t"><rect x="830" y="192" width="110" height="46" rx="10"/><text x="885" y="220" text-anchor="middle" class="l">inventory</text></g>
+  <g class="n t"><rect x="1000" y="80" width="40" height="140" rx="9" style="stroke:#f5a524;fill:#2a2418"/><text x="1020" y="150" text-anchor="middle" transform="rotate(-90 1020 150)" style="fill:#f5a524;font-size:14px">kafka</text></g>
+  <g class="n t"><rect x="1100" y="60" width="72" height="40" rx="9"/><text x="1136" y="85" text-anchor="middle" class="s" style="fill:#e9edf7">notify</text></g>
+  <g class="n t"><rect x="1100" y="200" width="72" height="40" rx="9"/><text x="1136" y="225" text-anchor="middle" class="s" style="fill:#e9edf7">reports</text></g>
+
+  <g filter="url(#glow)">
+    <circle r="5" fill="#6ea8ff"><animateMotion dur="1.2s" repeatCount="indefinite"><mpath href="#a"/></animateMotion></circle>
+    <circle r="5" fill="#6ea8ff"><animateMotion dur="1.2s" begin="-.6s" repeatCount="indefinite"><mpath href="#a"/></animateMotion></circle>
+    <circle r="4.5" fill="#3ddc97"><animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#b1"/></animateMotion></circle>
+    <circle r="4.5" fill="#3ddc97"><animateMotion dur="1.3s" begin="-.4s" repeatCount="indefinite"><mpath href="#b2"/></animateMotion></circle>
+    <circle r="4.5" fill="#3ddc97"><animateMotion dur="1.6s" begin="-.8s" repeatCount="indefinite"><mpath href="#b3"/></animateMotion></circle>
+    <circle r="4.5" fill="#f5a524"><animateMotion dur="1.4s" begin="-.2s" repeatCount="indefinite"><mpath href="#c1"/></animateMotion></circle>
+    <circle r="4.5" fill="#f5a524"><animateMotion dur="1.1s" begin="-.7s" repeatCount="indefinite"><mpath href="#c2"/></animateMotion></circle>
+    <circle r="4.5" fill="#f5a524"><animateMotion dur="1.4s" begin="-1s" repeatCount="indefinite"><mpath href="#c3"/></animateMotion></circle>
+    <circle r="4.5" fill="#f5a524"><animateMotion dur="1.2s" begin="-.3s" repeatCount="indefinite"><mpath href="#d1"/></animateMotion></circle>
+    <circle r="4.5" fill="#f5a524"><animateMotion dur="1.2s" begin="-.9s" repeatCount="indefinite"><mpath href="#d2"/></animateMotion></circle>
+  </g>
+</svg>
