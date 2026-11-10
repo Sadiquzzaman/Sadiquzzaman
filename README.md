@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🔧 Backend engineer with **4+ years** building scalable systems on Node.js, NestJS and microservices
+- 🔧 Backend engineer with **5+ years** building scalable systems on Node.js, NestJS and microservices
 - 🏢 Software Engineer at **Shohoz Limited**, working on platforms that handle **10M requests/day**
 - 🚌 Currently rewriting **Shohoz Bus** from legacy, using **Ory Hydra & Kratos** for identity/OAuth2 and **Apache Kafka** for event-driven services
 - 🎓 Co-founder of **Instructor Academy**, an exam proctoring and academic management SaaS
